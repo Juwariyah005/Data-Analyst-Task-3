@@ -1,4 +1,4 @@
-# Task 3: SQL for Data Analysis
+# SQL for Data Analysis
 
 ## Project Overview
 This project focuses on analyzing an e-commerce sales dataset using SQL in MySQL Workbench. It involves exploring the data, filtering records, performing aggregations, and extracting useful business insights.
